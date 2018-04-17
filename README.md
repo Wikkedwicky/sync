@@ -4,7 +4,7 @@ VideoSync
 About
 -----
 
-[sync.rickyfk.com]is the realtime video sharing site
+sync.rickyfk.com is the realtime video sharing site
 operated by [RFKgaming](https://sync.rickyfk.com). The site's software is based
 on the [CyTube](https://github.com/calzoneman/sync/) project.
 
