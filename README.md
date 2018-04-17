@@ -67,7 +67,7 @@ Features
 Installing
 ----------
 
-[CyTube's installation instructions](https://github.com/calzoneman/sync/wiki/CyTube-3.0-Installation-Guide)
+[CyTube's installation instructions](https://github.com/Wikkedwicky/sync/wiki/CyTube-3.0-Installation-Guide)
 
 
 
